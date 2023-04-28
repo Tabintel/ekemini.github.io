@@ -1,6 +1,6 @@
 # 31-Days of Consistency with Edustipend
 
-Hello everyone,
+Hi - Ekemini here 
 
 As my 31-day challenge comes to an end, I wanted to take a moment to reflect on all that I've learned and shared with you over the past month. Below are links to all 31 of my posts, covering a range of topics from technical writing to web development and personal growth:
 
@@ -10,7 +10,7 @@ As my 31-day challenge comes to an end, I wanted to take a moment to reflect on 
 
 - [Day 3/31: Documenting parameters and request/response bodies](https://www.linkedin.com/posts/ekemini-samuel-45062a1b4_31daysofconsistencywithedustipend-technicalwriting-activity-7044944639753134080-HNnE?utm_source=share&utm_medium=member_desktop)
 
-- [Day 4/31: API documentation—Documenting Error Codes.📚](https://www.linkedin.com/posts/ekemini-samuel-45062a1b4_31daysofconsistencywithedustipend-technicalwriting-activity-7045305420030062592-n6aL?utm_source=share&utm_medium=member_desktop)
+- [Day 4/31: API documentation—Documenting Error Codes.](https://www.linkedin.com/posts/ekemini-samuel-45062a1b4_31daysofconsistencywithedustipend-technicalwriting-activity-7045305420030062592-n6aL?utm_source=share&utm_medium=member_desktop)
 
 - [Day 5/31: API documentation—Documenting Authentication and Authorization.🔐](https://www.linkedin.com/posts/ekemini-samuel-45062a1b4_31daysofconsistencywithedustipend-technicalwriting-activity-7045658190759215104-Gnth?utm_source=share&utm_medium=member_desktop)
 
