@@ -1,6 +1,6 @@
 # 31-Days of Consistency with Edustipend
 
-Hi - Ekemini here 
+Hi - Ekemini here 👋🏾
 
 As my 31-day challenge comes to an end, I wanted to take a moment to reflect on all that I've learned and shared with you over the past month. Below are links to all 31 of my posts, covering a range of topics from technical writing to web development and personal growth:
 
@@ -64,7 +64,7 @@ As my 31-day challenge comes to an end, I wanted to take a moment to reflect on 
 
 - [Day 30/31: Always Keep Trying](https://www.linkedin.com/posts/ekemini-samuel-45062a1b4_31daysofconsistencywithedustipend-activity-7057470224475848704-sfb6?utm_source=share&utm_medium=member_desktop)
 
-- [Day 31/31: Reflections](link-to-day-30-post)
+- [Day 31/31: Reflections](https://www.linkedin.com/posts/ekemini-samuel-45062a1b4_31-days-of-consistency-with-edustipend-activity-7057779181404749824-chqI?utm_source=share&utm_medium=member_desktop)
 
 Thank you for following along with me on this journey, and I hope that you've found my posts informative and helpful. Please feel free to share any feedback or thoughts you have on the topics I've covered.
 
